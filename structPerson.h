@@ -5,5 +5,6 @@ using namespace std;
 
 struct Person
 {
-	string name, surname;
+	string name,surname;
+	int age;
 };
