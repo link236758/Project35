@@ -5,7 +5,7 @@ using namespace std;
 
 struct Person
 {
-	string name,surname,data_rod;
+	string name,surname;
 	int age;
 	double weight;
 };
