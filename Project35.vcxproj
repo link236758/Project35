@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="func_person.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="func_person.h" />
     <ClInclude Include="settings.h" />
     <ClInclude Include="structPerson.h" />
   </ItemGroup>
